@@ -1,0 +1,23 @@
+{
+    "location": {
+      "Origin Isles": "orbit",
+      "Jacko's Farm": "jacko",
+      "Air Balloon Platform": "conductor_carlo",
+      "The Library": "arthur",
+      "Founders Fountain": "jasmine",
+      "Feacture Forge": "boulder",
+      "Auction House": "auctioneer",
+      "Ruby Exchange": "banker",
+      "Silo Square": "valdon",
+      "Fabrick Furniture": "fabia",
+      "The Mug Cafe": "lulu",
+      "The Forest": "scout_leah",
+      "Mayors Office": "mayor",
+      "Community Centre": "ingus",
+      "Crystal Cavern": "clay"
+    },
+    "players": {
+      "KodingDev": "dev_koding",
+      "JacksonPlayzYT": "dev_jackson"
+    }
+  }

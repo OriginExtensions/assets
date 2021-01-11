@@ -5,10 +5,11 @@
     "1.0.1": "* Planters now have a setting to prevent breaking.",
     "1.0.2": "* Fixed startup crash caused by invalid mixins.",
     "1.0.3": "* (Forge) Fixed crash when right clicking planter boxes.\n* Fixed rich presence not initializing on macOS and OSX.",
-    "1.0.4": "* (Fabric) Updated the config button.\n* Added toast disable feature (Advancements, tutorial & recipes).\n* Reorganized config and added tooltips."
+    "1.0.4": "* (Fabric) Updated the config button.\n* Added toast disable feature (Advancements, tutorial & recipes).\n* Reorganized config and added tooltips.",
+    "1.0.5": "* (Forge) Fixed startup crash.\n* Removed auto connect.\n* Added back swag cosmetic snapping.\n* Made cutscene enhancements configurable."
   },
   "promos": {
-    "1.16.4-latest": "1.0.4",
-    "1.16.4-recommended": "1.0.4"
+    "1.16.4-latest": "1.0.5",
+    "1.16.4-recommended": "1.0.5"
   }
 }

@@ -82,6 +82,174 @@
         "note": 12,
         "powered": false
       }
+    },
+    "acacia_paper_lantern": {
+      "emissive": true,
+      "state": {
+        "instrument": "CHIME",
+        "note": 1,
+        "powered": false
+      }
+    },
+    "oak_paper_lantern": {
+      "emissive": true,
+      "state": {
+        "instrument": "CHIME",
+        "note": 2,
+        "powered": false
+      }
+    },
+    "dark_oak_paper_lantern": {
+      "emissive": true,
+      "state": {
+        "instrument": "CHIME",
+        "note": 3,
+        "powered": false
+      }
+    },
+    "fungal_paper_lantern": {
+      "emissive": true,
+      "state": {
+        "instrument": "CHIME",
+        "note": 4,
+        "powered": false
+      }
+    },
+    "spruce_paper_lantern": {
+      "emissive": true,
+      "state": {
+        "instrument": "CHIME",
+        "note": 5,
+        "powered": false
+      }
+    },
+    "birch_paper_lantern": {
+      "emissive": true,
+      "state": {
+        "instrument": "CHIME",
+        "note": 6,
+        "powered": false
+      }
+    },
+    "jungle_paper_lantern": {
+      "emissive": true,
+      "state": {
+        "instrument": "CHIME",
+        "note": 7,
+        "powered": false
+      }
+    },
+    "dark_oak_paper_lantern_1-2": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 9,
+        "powered": false
+      }
+    },
+    "dark_oak_paper_lantern_1": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 10,
+        "powered": false
+      }
+    },
+    "fungal_paper_lantern_1": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 15,
+        "powered": false
+      }
+    },
+    "fungal_paper_lantern_1-2": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 16,
+        "powered": false
+      }
+    },
+    "jungle_paper_lantern_1": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 17,
+        "powered": false
+      }
+    },
+    "jungle_paper_lantern_1-2": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 18,
+        "powered": false
+      }
+    },
+    "oak_paper_lantern_1": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 19,
+        "powered": false
+      }
+    },
+    "oak_paper_lantern_1-2": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 20,
+        "powered": false
+      }
+    },
+    "spruce_paper_lantern_1": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 21,
+        "powered": false
+      }
+    },
+    "spruce_paper_lantern_1-2": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 22,
+        "powered": false
+      }
+    },
+    "acacia_paper_lantern_1": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 5,
+        "powered": false
+      }
+    },
+    "acacia_paper_lantern_1-2": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 6,
+        "powered": false
+      }
+    },
+    "birch_paper_lantern_1": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 7,
+        "powered": false
+      }
+    },
+    "birch_paper_lantern_1-2": {
+      "emissive": true,
+      "state": {
+        "instrument": "DIDGERIDOO",
+        "note": 8,
+        "powered": false
+      }
     }
   },
   "ranks": {

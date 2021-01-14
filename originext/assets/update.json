@@ -1,6 +1,7 @@
 {
   "homepage": "https://realms.me/update-forge",
   "1.16.4": {
+    "1.1.0": "* Added prop hiding in first person.\n* Added ping sound for auction purchases.\n* Added keybinds for spawn and realm. (Unbound by default)\n* Added proper autocompletion for mentions and emoji.\n* Emojis & NPCs are filtered out of the social menu.\n* Fixed location tracking for chatrooms.\n* Planters can now be broken by shift clicking with an empty hand. (Off by default)\n* Rearranged config.\n* Updated registry to be remote.",
     "1.0.7": "* (Forge) Added config button. Currently just opens the config file.\n* Added anti-advertise chat filter feature. (Off by default)\n* Fixed IP matcher only checking for lowercase IPs.",
     "1.0.6": "* (Forge) Fixed build issues causing startup crashes.\n* (Forge) Categorized config.\n* (Forge) Fixed Jacko restock notifications being off by default.\n* (Fabric) Added contact links (website and issues) to the mod menu entry.\n* Moved armor stand interpolation into enhancements.",
     "1.0.5": "* (Forge) Fixed startup crash.\n* Removed auto connect.\n* Added back swag cosmetic snapping.\n* Made cutscene enhancements configurable.",
@@ -11,7 +12,7 @@
     "1.0.0": "Initial Release"
   },
   "promos": {
-    "1.16.4-latest": "1.0.7",
-    "1.16.4-recommended": "1.0.7"
+    "1.16.4-latest": "1.1.0",
+    "1.16.4-recommended": "1.1.0"
   }
 }

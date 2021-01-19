@@ -265,5 +265,41 @@
       "text": "\uA403",
       "staff": true
     }
+  },
+  "screens": {
+    "planter_box": {
+      "pattern": ".섭.*",
+      "slots": [
+        {
+          "index": 5,
+          "items": [
+            "soil_small",
+            "soil_medium",
+            "soil_large"
+          ]
+        },
+        {
+          "index": 14,
+          "items": [
+            "apple_seeds",
+            "banana_seeds",
+            "carrot_seeds",
+            "chilli_seeds",
+            "corn_seeds",
+            "egg_plant_seeds",
+            "lettuce_seeds",
+            "pineapple_seeds",
+            "potato_seeds"
+          ]
+        },
+        {
+          "index": 23,
+          "items": [
+            "fertilizer_multiplier",
+            "fertilizer_speed_grow"
+          ]
+        }
+      ]
+    }
   }
 }

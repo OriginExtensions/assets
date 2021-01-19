@@ -1,6 +1,10 @@
 {
   "homepage": "https://realms.me/update-forge",
+  "1.16.5": {
+    "1.1.2": "* (Fabric) Now possible to load on 1.16.5\n* Advanced tooltips now show the origin realms registry key instead of the minecraft one\n* Improved right clicking on custom blocks\n* Improved planter right clicking, your arm now swings when right clicking the top of the planter when it has no plant and you are holding nothing\n* Renamed some config entries\n* Fixed some error messages being spammed\n* Fixed normal armor stands not rendering outside of OR"
+  },
   "1.16.4": {
+    "1.1.2": "* (Fabric) Now possible to load on 1.16.5\n* Advanced tooltips now show the origin realms registry key instead of the minecraft one\n* Improved right clicking on custom blocks\n* Improved planter right clicking, your arm now swings when right clicking the top of the planter when it has no plant and you are holding nothing\n* Renamed some config entries\n* Fixed some error messages being spammed\n* Fixed normal armor stands not rendering outside of OR",
     "1.1.1": "* Fixed edge-case crash when pressing space after tab completion.",
     "1.1.0": "* Added prop hiding in first person.\n* Added ping sound for auction purchases.\n* Added keybinds for spawn and realm. (Unbound by default)\n* Added proper autocompletion for mentions and emoji.\n* Emojis & NPCs are filtered out of the social menu.\n* Fixed location tracking for chatrooms.\n* Planters can now be broken by shift clicking with an empty hand. (Off by default)\n* Rearranged config.\n* Updated registry to be remote.",
     "1.0.7": "* (Forge) Added config button. Currently just opens the config file.\n* Added anti-advertise chat filter feature. (Off by default)\n* Fixed IP matcher only checking for lowercase IPs.",
@@ -13,7 +17,9 @@
     "1.0.0": "Initial Release"
   },
   "promos": {
-    "1.16.4-latest": "1.1.1",
-    "1.16.4-recommended": "1.1.1"
+    "1.16.5-latest": "1.1.2",
+    "1.16.5-recommended": "1.1.2",
+    "1.16.4-latest": "1.1.2",
+    "1.16.4-recommended": "1.1.2"
   }
 }

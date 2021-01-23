@@ -54,6 +54,9 @@
     "Rusty Bukkit": {
       "presenceIcon": "rusty"
     },
+    "The Get Go": {
+      "presenceIcon": "adventurer"
+    },
     "Rusty Bukkit Rooftop": {
       "presenceIcon": "rusty",
       "chatroom": true

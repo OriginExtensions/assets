@@ -1,10 +1,12 @@
 {
   "homepage": "https://realms.me/update-forge",
   "1.16.5": {
+    "1.2.1": "* Prevented new item predicate optimization from loading when OptiFine is present\n* Moved some config entries",
     "1.2.0": "+ (Forge) Added mod logo\n+ Backported 1.17 item predicate optimizations, this should show a 2-3x performance increase at spawn\n+ Added block sound system (actual sounds are not yet implemented, they'll show up soon)\n* Fixed edge-case crash where Minecraft can be null when getting the server info\n* Changed cosmetics to show a unique id instead of 'originrealms:cosmetic'\n* Replaced config button with a new texture\n* Reworked mod internals to be more efficient\n- Removed planter boxes breaking when sneaking feature.",
     "1.1.2": "* (Fabric) Now possible to load on 1.16.5\n* Advanced tooltips now show the origin realms registry key instead of the minecraft one\n* Improved right clicking on custom blocks\n* Improved planter right clicking, your arm now swings when right clicking the top of the planter when it has no plant and you are holding nothing\n* Renamed some config entries\n* Fixed some error messages being spammed\n* Fixed normal armor stands not rendering outside of OR"
   },
   "1.16.4": {
+    "1.2.1": "* Prevented new item predicate optimization from loading when OptiFine is present\n* Moved some config entries",
     "1.2.0": "+ (Forge) Added mod logo\n+ Backported 1.17 item predicate optimizations, this should show a 2-3x performance increase at spawn\n+ Added block sound system (actual sounds are not yet implemented, they'll show up soon)\n* Fixed edge-case crash where Minecraft can be null when getting the server info\n* Changed cosmetics to show a unique id instead of 'originrealms:cosmetic'\n* Replaced config button with a new texture\n* Reworked mod internals to be more efficient\n- Removed planter boxes breaking when sneaking feature.",
     "1.1.2": "* (Fabric) Now possible to load on 1.16.5\n* Advanced tooltips now show the origin realms registry key instead of the minecraft one\n* Improved right clicking on custom blocks\n* Improved planter right clicking, your arm now swings when right clicking the top of the planter when it has no plant and you are holding nothing\n* Renamed some config entries\n* Fixed some error messages being spammed\n* Fixed normal armor stands not rendering outside of OR",
     "1.1.1": "* Fixed edge-case crash when pressing space after tab completion.",
@@ -19,9 +21,9 @@
     "1.0.0": "Initial Release"
   },
   "promos": {
-    "1.16.5-latest": "1.2.0",
-    "1.16.5-recommended": "1.2.0",
-    "1.16.4-latest": "1.2.0",
-    "1.16.4-recommended": "1.2.0"
+    "1.16.5-latest": "1.2.1",
+    "1.16.5-recommended": "1.2.1",
+    "1.16.4-latest": "1.2.1",
+    "1.16.4-recommended": "1.2.1"
   }
 }

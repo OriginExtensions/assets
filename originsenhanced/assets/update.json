@@ -1,6 +1,6 @@
 {
-  "homepage-fabric": "originrealms.com/enhanced",
-  "homepage": "originrealms.com/enhanced-forge",
+  "homepage-fabric": "https://originrealms.com/enhanced",
+  "homepage": "https://originrealms.com/enhanced-forge",
   "1.16.5": {
     "1.3.0": "* (Forge) Added config menu\n* (Fabric) Replace config menu with a new universal one which is used on Forge\n* New look! Since we've gone official, the mod has been given a new look with a fresh new logo and icon!\n* Refactored many mod internals, mainly how configuration and features work.\n* Rich presence now runs asynchronously and uses a new library",
     "1.2.1": "* Prevented new item predicate optimization from loading when OptiFine is present\n* Moved some config entries",

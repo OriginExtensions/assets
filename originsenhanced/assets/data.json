@@ -57,6 +57,9 @@
     "The Get Go": {
       "presenceIcon": "adventurer"
     },
+    "The Arcade": {
+      "presenceIcon": "bartender_otto"
+    },
     "Rusty Bukkit Rooftop": {
       "presenceIcon": "rusty",
       "chatroom": true

@@ -74,7 +74,8 @@
 			"presenceIcon": "bartender_otto"
 		},
 		"Arcade Fireplace": {
-			"presenceIcon": "bartender_otto"
+			"presenceIcon": "bartender_otto",
+			"chatroom": true
 		}
 	},
 	"blocks": {

@@ -4,7 +4,7 @@
         "1.6.0": "* Updated internals\n* Fixed durability bar showing the incorrect color and amount with custom items.",
         "1.5.1": "* (Fabric) Fixed crash when using OptiFabric\n* Fixed various animation issues",
         "1.5.0": "* (Forge) Added support for Forge 1.18\n* Added support for custom durability"
-    }
+    },
     "1.18.1": {
         "1.6.0": "* Updated internals\n* Fixed durability bar showing the incorrect color and amount with custom items.",
         "1.5.1": "* (Fabric) Fixed crash when using OptiFabric\n* Fixed various animation issues",

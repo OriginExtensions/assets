@@ -1,16 +1,22 @@
 {
     "homepage": "https://originrealms.com/enhanced",
     "1.18.2": {
+        "1.7.0": "* Added gesture menu keybind (press G)\n* Added gesture compatibility fixes (fixes gestures with shaders and other mods and allows walking with normal keys instead of jump)\n* Origins Enhanced no longer works if server communication is outdated. This means if the server requires a new OE version, you will be forced to update.\n* Removed unobtrusive props feature\n* Fixed auction pings not working",
+        "1.6.1": "* Fixed damage showing an incorrect value",
         "1.6.0": "* Updated internals\n* Fixed durability bar showing the incorrect color and amount with custom items.",
         "1.5.1": "* (Fabric) Fixed crash when using OptiFabric\n* Fixed various animation issues",
         "1.5.0": "* (Forge) Added support for Forge 1.18\n* Added support for custom durability"
     },
     "1.18.1": {
+        "1.7.0": "* Added gesture menu keybind (press G)\n* Added gesture compatibility fixes (fixes gestures with shaders and other mods and allows walking with normal keys instead of jump)\n* Origins Enhanced no longer works if server communication is outdated. This means if the server requires a new OE version, you will be forced to update.\n* Removed unobtrusive props feature\n* Fixed auction pings not working",
+        "1.6.1": "* Fixed damage showing an incorrect value",
         "1.6.0": "* Updated internals\n* Fixed durability bar showing the incorrect color and amount with custom items.",
         "1.5.1": "* (Fabric) Fixed crash when using OptiFabric\n* Fixed various animation issues",
         "1.5.0": "* (Forge) Added support for Forge 1.18\n* Added support for custom durability"
     },
     "1.18": {
+        "1.7.0": "* Added gesture menu keybind (press G)\n* Added gesture compatibility fixes (fixes gestures with shaders and other mods and allows walking with normal keys instead of jump)\n* Origins Enhanced no longer works if server communication is outdated. This means if the server requires a new OE version, you will be forced to update.\n* Removed unobtrusive props feature\n* Fixed auction pings not working",
+        "1.6.1": "* Fixed damage showing an incorrect value",
         "1.6.0": "* Updated internals\n* Fixed durability bar showing the incorrect color and amount with custom items.",
         "1.5.1": "* (Fabric) Fixed crash when using OptiFabric\n* Fixed various animation issues",
         "1.5.0": "* (Forge) Added support for Forge 1.18\n* Added support for custom durability"
@@ -48,12 +54,12 @@
         "1.0.0": "Initial Release"
     },
     "promos": {
-        "1.18.2-latest": "1.6.0",
-        "1.18.2-recommended": "1.6.0",
-        "1.18.1-latest": "1.6.0",
-        "1.18.1-recommended": "1.6.0",
-        "1.18-latest": "1.6.0",
-        "1.18-recommended": "1.6.0",
+        "1.18.2-latest": "1.7.0",
+        "1.18.2-recommended": "1.7.0",
+        "1.18.1-latest": "1.7.0",
+        "1.18.1-recommended": "1.7.0",
+        "1.18-latest": "1.7.0",
+        "1.18-recommended": "1.7.0",
         "1.17.1-latest": "1.4.3",
         "1.17.1-recommended": "1.4.3",
         "1.16.5-latest": "1.3.2",

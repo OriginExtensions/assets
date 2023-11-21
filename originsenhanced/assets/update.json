@@ -1,5 +1,8 @@
 {
     "homepage": "https://originrealms.com/enhanced",
+    "1.20.1": {
+        "1.9.0": "*Updated to 1.20.1"
+    },
     "1.19.2": {
         "1.8.0": "* Updated to 1.19.2\n* Cosmetics with client enchants (aqua affinity, etc.) no longer show a enchantment glint\n* Removed cosmetic slot locking for hats to allow armor layering"
     },
@@ -57,6 +60,8 @@
         "1.0.0": "Initial Release"
     },
     "promos": {
+        "1.20.1-latest": "1.9.0",
+        "1.20.1-recommended": "1.9.0",
         "1.19.2-latest": "1.8.0",
         "1.19.2-recommended": "1.8.0",
         "1.18.2-latest": "1.7.0",

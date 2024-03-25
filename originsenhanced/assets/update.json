@@ -1,5 +1,8 @@
 {
     "homepage": "https://originrealms.com/enhanced",
+    "1.20.4": {
+        "1.10.0": "(Now Fabric Only!) View changelog on CurseForge"
+    }
     "1.20.1": {
         "1.9.0": "*Updated to 1.20.1"
     },
@@ -60,6 +63,8 @@
         "1.0.0": "Initial Release"
     },
     "promos": {
+        "1.20.4-latest": "1.10.0",
+        "1.20.4-recommended": "1.10.0",
         "1.20.1-latest": "1.9.0",
         "1.20.1-recommended": "1.9.0",
         "1.19.2-latest": "1.8.0",
